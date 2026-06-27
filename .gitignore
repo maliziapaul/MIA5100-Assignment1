@@ -1,0 +1,8 @@
+# Redundant spreadsheet format (CSV is already included)
+MedicalCentre.xlsx
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
